@@ -31,7 +31,7 @@ const songs = [
     {
         title: "A Night to Remember",
         artist: "Laufey & beabadoobee",
-        file: "A Night to Remember.mp3"
+        file: "A night to remember.mp3"
     },
 
     {
@@ -132,7 +132,7 @@ function playSong(index) {
             );
 
             alert(
-                "No se pudo reproducir la canción. Revisa que el MP3 esté dentro de la carpeta music ♡"
+                "error 123♡"
             );
 
         });
